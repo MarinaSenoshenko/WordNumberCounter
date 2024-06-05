@@ -12,7 +12,7 @@ Page of site:
 
 ![site_word_count.png](site_word_count.png)
 
-### Стек технологий
+## Technologies Used
 * Java 17
 * Spring Boot 
 * React
